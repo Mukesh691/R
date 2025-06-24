@@ -1,0 +1,6 @@
+git add .
+git commit -m "Initial game upload"
+git branch -M main
+git push -u origin maingit add .
+git commit -m "Your update message"
+git push
